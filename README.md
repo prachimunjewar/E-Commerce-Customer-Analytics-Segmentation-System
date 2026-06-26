@@ -3,12 +3,8 @@
 > End-to-end data science project that segments 99K+ customers using RFM Analysis & K-Means Clustering, predicts Customer Lifetime Value, and delivers insights via interactive dashboards.
 
 ---
-
-## 📊 Live Dashboards
-| Dashboard | Link |
-|---|---|
-| 🚀 Streamlit App | [Add your Streamlit link here] |
-| 📊 Tableau Public | [Add your Tableau Public link here] |
+## 📊 Live Demo
+https://e-commerce-customer-analytics-segmentation-system-r6xtgbbea5ho.streamlit.app/
 
 ---
 
@@ -195,12 +191,4 @@ mysql-connector-python
 ---
 
 ## 👤 Author
-**Your Name**
-- LinkedIn: [your linkedin]
-- GitHub: [your github]
-- Email: [your email]
-
----
-
-## 📄 License
-MIT License — free to use for learning and portfolio purposes.
+**Prachi Munjewar**
