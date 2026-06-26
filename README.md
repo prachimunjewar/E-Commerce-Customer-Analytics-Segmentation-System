@@ -7,6 +7,12 @@
 https://e-commerce-customer-analytics-segmentation-system-r6xtgbbea5ho.streamlit.app/
 
 ---
+## 📊 Tableau Dashboard
+
+Interactive Tableau dashboard providing customer segmentation insights through RFM Analysis, K-Means Clustering, Customer Lifetime Value (CLV) prediction, revenue analysis, and key business KPIs for data-driven decision making.
+
+screenshot of Tableau Dashboard :
+<img width="1141" height="584" alt="image" src="https://github.com/user-attachments/assets/69a76bc6-2f43-4cf6-9067-5f1fa4f8a2ef" />
 
 ## 🎯 Business Problem
 E-commerce businesses struggle to identify which customers are most valuable, at risk of leaving, or likely to generate future revenue. This project answers:
